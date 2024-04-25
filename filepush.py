@@ -33,7 +33,7 @@ class AzureBlobUploader:
 
 # Azure Storage account details
 account_name = 'dummypush'
-account_key = 'UaTWFz7Kx6pL8Hu222QBae9UiG20WLg7BHkBFBXEq6GmfjHZ8Ev+Qj0I9tKqCKxMTz5jWqFFDFAA+AStmsPOtQ=='
+account_key = ''
 container_name = 'haritestpush'
 
 # Create an instance of AzureBlobUploader
